@@ -1,1 +1,1 @@
-docker run -it -p 4433:1433 -e sa_password=p@ssage4me -e ACCEPT_EULA=Y mssql-fts
+docker run -it -p 4433:1433 -e sa_password=p@ssage4me -e ACCEPT_EULA=Y buddyfavors/mssql-fts

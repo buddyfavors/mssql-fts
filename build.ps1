@@ -1,1 +1,1 @@
-docker build -t mssql-fts .
+docker build -t buddyfavors/mssql-fts .
